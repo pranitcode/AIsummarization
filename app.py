@@ -45,6 +45,6 @@ def summarize_text():
         print("Error:", e)  # Debug statement
         return jsonify({"error": str(e)}), 400
 
-if __name__ == '__main__':
-    app.run()
+# if __name__ == '__main__':
+#     app.run()
 
