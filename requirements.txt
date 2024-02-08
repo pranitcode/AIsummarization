@@ -1,3 +1,7 @@
 Flask
 transformers
 gunicorn
+torch==1.9.1
+torchvision==0.10.1
+
+
