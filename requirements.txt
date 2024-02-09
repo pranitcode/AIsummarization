@@ -3,5 +3,6 @@ transformers
 gunicorn
 torch
 torchvision
+werkzeug
 
 
